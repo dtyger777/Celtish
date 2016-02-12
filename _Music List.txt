@@ -11,9 +11,6 @@ Whiskey in the Jar [C]
 Wild Mountain Thyme [D]
 Dirty Old Town [G]
 Fields of Athenry [E]
-Spancil Hill [Am]
-The Mermaid [G]
-Massacre of Glencoe [G]
 
 
 In the Pipeline
@@ -21,39 +18,42 @@ In the Pipeline
 Galway Girl [D]
 Drunken Sailor [Em]
 Caledonia [G]
-Fiddlers' Green [E]
-Take her in your Arms [Em]
+Fiddlers' Green [C]
+Spancil Hill [Am]
+Take her in your Arms [G]
+Mermaid [G]
 Ye Jacobites by name [Dm]
-By the Rising of the Moon [C]
-The Night Paddy Murphy Died [G]
+Massacre of Glencoe [G]
 
 
 Newly Introduced
 
-The Parting Glass [Em]
+By the Rising of the Moon [D]
+The Night Paddy Murphy Died [G]
+The Parting Glass [G]
 Keg of Brandy [C]
 Finnegan's Wake [C]
 Seven Drunken Nights [C]
 Johnny Jump Up [Em]
-Loch Lomond [E]
-The Galway Shawl [G]
-Hills of Connemara [D]
-Broom of the Cowdenknowes [A]
-If I Were a Blackbird [Dm]
+Loch Lomond [G]
+The Galway Shawl [C]
+Hills of Connemara [G]
 
 
 In Progress
 
+Broom of the Cowdenknowes [A]
+If I Were a Blackbird [Am]
 The Sick Note [D]
 The Unicorn Song [D]
 Maira's Wedding
 The Rocky Road to Dublin
-Drink it Up, Men
 
 
 In the future?
 
 Song of the Dawn
+Drink it Up, Men
 Mary Mac
 Beer, Beer, Beer
 Loch Tay Boat Song
