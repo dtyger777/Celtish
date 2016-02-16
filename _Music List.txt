@@ -1,3 +1,5 @@
+Rev. 1, 2016-02-15
+
 Ready to Go
 
 The Wild Rover [G]
@@ -11,6 +13,9 @@ Whiskey in the Jar [C]
 Wild Mountain Thyme [D]
 Dirty Old Town [G]
 Fields of Athenry [E]
+Spancil Hill [Am]
+The Mermaid [G]
+Massacre of Glencoe [G]
 
 
 In the Pipeline
@@ -18,42 +23,39 @@ In the Pipeline
 Galway Girl [D]
 Drunken Sailor [Em]
 Caledonia [G]
-Fiddlers' Green [C]
-Spancil Hill [Am]
-Take her in your Arms [G]
-Mermaid [G]
+Fiddlers' Green [E]
+Take her in your Arms [Em]
 Ye Jacobites by name [Dm]
-Massacre of Glencoe [G]
+By the Rising of the Moon [C]
+The Night Paddy Murphy Died [G]
 
 
 Newly Introduced
 
-By the Rising of the Moon [D]
-The Night Paddy Murphy Died [G]
-The Parting Glass [G]
+The Parting Glass [Em]
 Keg of Brandy [C]
 Finnegan's Wake [C]
 Seven Drunken Nights [C]
 Johnny Jump Up [Em]
-Loch Lomond [G]
-The Galway Shawl [C]
-Hills of Connemara [G]
+Loch Lomond [E]
+The Galway Shawl [G]
+Hills of Connemara [D]
+Broom of the Cowdenknowes [A]
+If I Were a Blackbird [Dm]
 
 
 In Progress
 
-Broom of the Cowdenknowes [A]
-If I Were a Blackbird [Am]
 The Sick Note [D]
+The Rocky Road to Dublin [Cm]
+Drink it Up, Men [D]
 The Unicorn Song [D]
 Maira's Wedding
-The Rocky Road to Dublin
 
 
 In the future?
 
 Song of the Dawn
-Drink it Up, Men
 Mary Mac
 Beer, Beer, Beer
 Loch Tay Boat Song
@@ -64,6 +66,7 @@ Danny Boy
 Mountain Dew
 Roddy McCorley
 Trees they Grow High
+If I should fall from Grace with God
 I'll drink from Dusk till Dawn
 Patty's Green Shamrock Shore
 The humours of Whiskey
@@ -74,6 +77,7 @@ Arthur McBride
 Kilkelly, Ireland
 Gypsy Rover
 Lily the Pink?
+Come out you black and tans
 Broken Token?
 Soulcakes?
 Beggars to God?
@@ -88,5 +92,6 @@ Donegal Danny
 The Pub that we call home
 Sister Selkie? (Pandora Celtica)
 Darker than the mine
+
 
 ... and many more?
